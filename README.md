@@ -48,12 +48,16 @@ The company seeks to better understand booking patterns, customer satisfaction, 
 
 ---
 
-## 📈 Key Insights
+ 📈 Key Insights
 - Most cancellations were customer-initiated due to delays.
 - Prime Sedan had the widest rating range, while Mini had more consistent reviews.
 - UPI emerged as the preferred payment method for quick rides.
 - Top 5% of customers contributed to 25% of revenue.
 - Weekend rides saw high volume but lower driver ratings.
+
+
+✅ Conclusion
+The analysis provided insights into ride trends, payment preferences, and service quality. This project can help ride-hailing companies improve operational efficiency, allocate resources better, and enhance the rider/driver experience.
 
 ---
 
