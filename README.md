@@ -11,7 +11,6 @@ Analyze ride and booking data from a ride-hailing platform to identify patterns,
 
  🌐 Tools & Technologies
 - **SQL**: Data querying and transformations
-- **Power BI**: Data visualization and dashboarding
 - **Excel**: Preliminary data cleaning
 
 ---
