@@ -1,4 +1,5 @@
-# Sql_Project
+# Ride-Hailing Analytics Project – Business Intelligence for OLA 
+
 
 Analyzing Ride Patterns and Booking Behavior for Enhanced Business Intelligence in a Ride-Hailing Company.
 
